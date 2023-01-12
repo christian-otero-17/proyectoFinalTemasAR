@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158459b183137644b9e70268a270f2b, type: 3}
+  m_Name: SentadillaAire
+  m_EditorClassIdentifier: 
+  ItemName: Sentadilla
+  ItemImage: {fileID: 21300000, guid: b7f57286341bfa04286b2731bf3a640f, type: 3}
+  ItemDescription: 5 series x 10 repeticiones
+  Item3DModel: {fileID: 8638505917925258960, guid: 4d4ac852ba171f04891db8b1ab5e7bb4, type: 3}

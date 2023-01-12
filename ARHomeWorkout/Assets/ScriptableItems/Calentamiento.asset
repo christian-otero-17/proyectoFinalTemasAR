@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158459b183137644b9e70268a270f2b, type: 3}
+  m_Name: Calentamiento
+  m_EditorClassIdentifier: 
+  ItemName: Calentamiento
+  ItemImage: {fileID: 21300000, guid: cb5b0e9e9dffca74982bda39b941f6a7, type: 3}
+  ItemDescription: 5 series x 10 repeticiones
+  Item3DModel: {fileID: 4675836077800182115, guid: cc7447f111b0e40498db047ab48ba561, type: 3}
